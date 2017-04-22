@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.yajima.demo-card-wide.mdl-card {
+  width: 512px;
+}
+.yajima.demo-card-wide > .mdl-card__title {
+  color:#FF7E80;
+  height: 176px;
+  background: url('../assets/demos/welcome_card.jpg') center / cover;
+}
+.yajima.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
